@@ -1,0 +1,33 @@
+.text-center{
+    text-align: center;
+}
+.btn-group {
+  height: 100vh;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+.show-btn {
+  text-decoration: none;
+  margin: 0px 26px;
+  background: #0f3290;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 20px;
+}
+
+/* Total Interest */
+table,
+th,
+td {
+  border: 1px solid black;
+}
+.interest{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    width: 50%;
+    text-align: center;
+}
